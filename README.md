@@ -1,4 +1,4 @@
-#Tic Tac Toe in 
+# Tic Tac Toe in C
 
 This game requires only 2 players.
 Each player is assigned their own mark (either X or O)
