@@ -10,4 +10,4 @@ The chosen square is then converted into the mark of the respective players.
 
 If the user enters an invalid option, it displays an error.
 
-##In the end, the result is declared by displaying either winner or draw.
+## In the end, the result is declared by displaying either winner or draw.
