@@ -4,7 +4,7 @@ This game requires only 2 players.
 
 Each player is assigned their own mark (either X or O).
 
-Further, both players take turns and enter their square of choice.
+Further, both players take turns and enter their mark on a square of their choice.
 
 The chosen square is then converted into the mark of the respective players.
 
